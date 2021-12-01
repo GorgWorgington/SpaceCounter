@@ -1,3 +1,9 @@
+*.o
+*.exe
+SpaceCounter
+ui_*.h
+compile_commands.json
+
 .sconsign.dblite
 
 config.log
