@@ -7,3 +7,5 @@ config.log
 .clang-format
 
 .vscode/
+
+__pycache__/
